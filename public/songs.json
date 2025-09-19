@@ -1,0 +1,659 @@
+{
+  "canciones": [
+    {
+      "name": "Candle in the Wind",
+      "artist": "Elton Jhon",
+      "path": ""
+    },
+    {
+      "name": "Goodbye Yellow Brick Road",
+      "artist": "Elton Jhon",
+      "path": ""
+    },
+    {
+      "name": "Daniel",
+      "artist": "Elton Jhon",
+      "path": ""
+    },
+    {
+      "name": "Living On a Prayer",
+      "artist": "Bon Jovi",
+      "path": ""
+    },
+    {
+      "name": "Wanted Dead or Alive",
+      "artist": "Bon Jovi",
+      "path": ""
+    },
+    {
+      "name": "It's My Life",
+      "artist": "Bon Jovi",
+      "path": ""
+    },
+    {
+      "name": "Welcome to the Jungle",
+      "artist": "Guns & Roses",
+      "path": ""
+    },
+    {
+      "name": "Sweet Child of Mine",
+      "artist": "Guns & Roses",
+      "path": ""
+    },
+    {
+      "name": "Night Train",
+      "artist": "Guns & Roses",
+      "path": ""
+    },
+    {
+      "name": "Crazy",
+      "artist": "Seal",
+      "path": ""
+    },
+    {
+      "name": "Whirlpool",
+      "artist": "Seal",
+      "path": ""
+    },
+    {
+      "name": "Future Love Paradise",
+      "artist": "Seal",
+      "path": ""
+    },
+    {
+      "name": "Hold the Line",
+      "artist": "Toto",
+      "path": ""
+    },
+    {
+      "name": "Africa",
+      "artist": "Toto",
+      "path": ""
+    },
+    {
+      "name": "Rosanna",
+      "artist": "Toto",
+      "path": ""
+    },
+    {
+      "name": "Georgy Porgy",
+      "artist": "Toto",
+      "path": ""
+    },
+    {
+      "name": "Every Breath you Take",
+      "artist": "The Police",
+      "path": ""
+    },
+    {
+      "name": "Message in a Bottle",
+      "artist": "The Police",
+      "path": ""
+    },
+    {
+      "name": "Roxanne",
+      "artist": "The Police",
+      "path": ""
+    },
+    {
+      "name": "Englishman In New York",
+      "artist": "The Police",
+      "path": ""
+    },
+    {
+      "name": "Every Little Thing She does is Magic",
+      "artist": "The Police",
+      "path": ""
+    },
+    {
+      "name": "Won't be long",
+      "artist": "Aretha Franklin",
+      "path": ""
+    },
+    {
+      "name": "I say a little Prayer",
+      "artist": "Aretha Franklin",
+      "path": ""
+    },
+    {
+      "name": "Respect",
+      "artist": "Aretha Franklin",
+      "path": ""
+    },
+    {
+      "name": "Ain't Mountain High Enough",
+      "artist": "Marvin Gaye",
+      "path": ""
+    },
+    {
+      "name": "Sexual Healing",
+      "artist": "Marvin Gaye",
+      "path": ""
+    },
+    {
+      "name": "Let's Get it On",
+      "artist": "Marvin Gaye",
+      "path": ""
+    },
+    {
+      "name": "Mercy Mercy Me",
+      "artist": "Marvin Gaye",
+      "path": ""
+    },
+    {
+      "name": "September",
+      "artist": "Earth Wind and Fire",
+      "path": ""
+    },
+    {
+      "name": "Let's Groove",
+      "artist": "Earth Wind and Fire",
+      "path": ""
+    },
+    {
+      "name": "Boogie Wonderland",
+      "artist": "Earth Wind and Fire",
+      "path": ""
+    },
+    {
+      "name": "Billie Jean",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "Rock With You",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "Don't Stop Till You Get Enough",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "You Rock My World",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "I Want You Back",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "ABC",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "Shake Your Body",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "Blame It On The Boogie",
+      "artist": "Michael Jackson",
+      "path": ""
+    },
+    {
+      "name": "Superstition",
+      "artist": "Stevie Wonder",
+      "path": ""
+    },
+    {
+      "name": "You are the Sunshine of my life",
+      "artist": "Stevie Wonder",
+      "path": ""
+    },
+    {
+      "name": "Part Time Lover",
+      "artist": "Stevie Wonder",
+      "path": ""
+    },
+    {
+      "name": "Higher Ground",
+      "artist": "Stevie Wonder",
+      "path": ""
+    },
+    {
+      "name": "Policy of Truth",
+      "artist": "Depeche Mode",
+      "path": ""
+    },
+    {
+      "name": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "path": ""
+    },
+    {
+      "name": "Personal Jesus",
+      "artist": "Depeche Mode",
+      "path": ""
+    },
+    {
+      "name": "Strangelove",
+      "artist": "Depeche Mode",
+      "path": ""
+    },
+    {
+      "name": "Modern Love",
+      "artist": "David Bowie",
+      "path": ""
+    },
+    {
+      "name": "Heroes",
+      "artist": "David Bowie",
+      "path": ""
+    },
+    {
+      "name": "Let's Dance",
+      "artist": "David Bowie",
+      "path": ""
+    },
+    {
+      "name": "Under Pressure",
+      "artist": "David Bowie",
+      "path": ""
+    },
+    {
+      "name": "Voulez-Vous",
+      "artist": "Abba",
+      "path": ""
+    },
+    {
+      "name": "Dancing Queen",
+      "artist": "Abba",
+      "path": ""
+    },
+    {
+      "name": "The Winner Takes It all",
+      "artist": "Abba",
+      "path": ""
+    },
+    {
+      "name": "Back in Black",
+      "artist": "AC/DC",
+      "path": ""
+    },
+    {
+      "name": "You Shook Me All Night Long",
+      "artist": "AC/DC",
+      "path": ""
+    },
+    {
+      "name": "Thunderstruck",
+      "artist": "AC/DC",
+      "path": ""
+    },
+    {
+      "name": "Rock or Bust",
+      "artist": "AC/DC",
+      "path": ""
+    },
+    {
+      "name": "Highway to Hell",
+      "artist": "AC/DC",
+      "path": ""
+    },
+    {
+      "name": "Don't Answer Me",
+      "artist": "The Alan Parsons Project",
+      "path": ""
+    },
+    {
+      "name": "Eye in The Sky",
+      "artist": "The Alan Parsons Project",
+      "path": ""
+    },
+    {
+      "name": "Time",
+      "artist": "The Alan Parsons Project",
+      "path": ""
+    },
+    {
+      "name": "You're the First, The last, Mt Everything",
+      "artist": "Barry White",
+      "path": ""
+    },
+    {
+      "name": "Can't Get Enough of Your Love",
+      "artist": "Barry White",
+      "path": ""
+    },
+    {
+      "name": "Just the Way You Are",
+      "artist": "Barry White",
+      "path": ""
+    },
+    {
+      "name": "Jive Talking",
+      "artist": "Bee Gees",
+      "path": ""
+    },
+    {
+      "name": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "path": ""
+    },
+    {
+      "name": "How Deep is Your Love",
+      "artist": "Bee Gees",
+      "path": ""
+    },
+    {
+      "name": "Night Fever",
+      "artist": "Bee Gees",
+      "path": ""
+    },
+    {
+      "name": "You Should Be Dancing",
+      "artist": "Bee Gees",
+      "path": ""
+    },
+    {
+      "name": "Twice as Hard",
+      "artist": "The Black Crowes",
+      "path": ""
+    },
+    {
+      "name": "Hard to Handle",
+      "artist": "The Black Crowes",
+      "path": ""
+    },
+    {
+      "name": "She talks to Angels",
+      "artist": "The Black Crowes",
+      "path": ""
+    },
+    {
+      "name": "Remedy",
+      "artist": "The Black Crowes",
+      "path": ""
+    },
+    {
+      "name": "Sting Me",
+      "artist": "The Black Crowes",
+      "path": ""
+    },
+    {
+      "name": "All In One",
+      "artist": "Bob Marley",
+      "path": ""
+    },
+    {
+      "name": "I Shot The Sheriff",
+      "artist": "Bob Marley",
+      "path": ""
+    },
+    {
+      "name": "You Could Be Loved",
+      "artist": "Bob Marley",
+      "path": ""
+    },
+    {
+      "name": "Is this Love",
+      "artist": "Bob Marley",
+      "path": ""
+    },
+    {
+      "name": "Get Up, Stand Up",
+      "artist": "Bob Marley",
+      "path": ""
+    },
+    {
+      "name": "Sweet Child O'Mine",
+      "artist": "Guns n Roses",
+      "path": ""
+    },
+    {
+      "name": "Welcome to the Jungle",
+      "artist": "Guns n Roses",
+      "path": ""
+    },
+    {
+      "name": "Paradise City",
+      "artist": "Guns n Roses",
+      "path": ""
+    },
+    {
+      "name": "Patience",
+      "artist": "Guns n Roses",
+      "path": ""
+    },
+    {
+      "name": "Knockin' on Heaven's Door",
+      "artist": "Guns n Roses",
+      "path": ""
+    },
+    {
+      "name": "Back in Black",
+      "artist": "AC DC",
+      "path": ""
+    },
+    {
+      "name": "Thunderstruck",
+      "artist": "AC DC",
+      "path": ""
+    },
+    {
+      "name": "Highway To Hell",
+      "artist": "AC DC",
+      "path": ""
+    },
+    {
+      "name": "You Shook Me All Night Long",
+      "artist": "AC DC",
+      "path": ""
+    },
+    {
+      "name": "Hells Bells",
+      "artist": "AC DC",
+      "path": ""
+    },
+    {
+      "name": "I Was Made for Loving You",
+      "artist": "Kiss",
+      "path": ""
+    },
+    {
+      "name": "Rock n Roll all Nite",
+      "artist": "Kiss",
+      "path": ""
+    },
+    {
+      "name": "Forever",
+      "artist": "Kiss",
+      "path": ""
+    },
+    {
+      "name": "Love Gun",
+      "artist": "Kiss",
+      "path": ""
+    },
+    {
+      "name": "Dream On",
+      "artist": "Aerosmith",
+      "path": ""
+    },
+    {
+      "name": "Crazy",
+      "artist": "Aerosmith",
+      "path": ""
+    },
+    {
+      "name": "Angel",
+      "artist": "Aerosmith",
+      "path": ""
+    },
+    {
+      "name": "Crying",
+      "artist": "Aerosmith",
+      "path": ""
+    },
+    {
+      "name": "Sweet Emotion",
+      "artist": "Aerosmith",
+      "path": ""
+    },
+    {
+      "name": "Walk This Way",
+      "artist": "Aerosmith",
+      "path": ""
+    },
+    {
+      "name": "Call Me",
+      "artist": "Blondie",
+      "path": ""
+    },
+    {
+      "name": "One Way Or Another",
+      "artist": "Blondie",
+      "path": ""
+    },
+    {
+      "name": "Heart Of Glass",
+      "artist": "Blondie",
+      "path": ""
+    },
+    {
+      "name": "Wrapping Paper",
+      "artist": "Cream",
+      "path": ""
+    },
+    {
+      "name": "I Feel Free",
+      "artist": "Cream",
+      "path": ""
+    },
+    {
+      "name": "Crossroads",
+      "artist": "Cream",
+      "path": ""
+    },
+    {
+      "name": "Black Dog",
+      "artist": "Led Zeppelin",
+      "path": ""
+    },
+    {
+      "name": "Whole Lotta Love",
+      "artist": "Led Zeppelin",
+      "path": ""
+    },
+    {
+      "name": "Kashmir",
+      "artist": "Led Zeppelin",
+      "path": ""
+    },
+    {
+      "name": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "path": ""
+    },
+    {
+      "name": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "path": ""
+    },
+    {
+      "name": "Another Brick on the Wall Part 2",
+      "artist": "Pink Floyd",
+      "path": ""
+    },
+    {
+      "name": "Hey You",
+      "artist": "Pink Floyd",
+      "path": ""
+    },
+    {
+      "name": "Comfortably Numb",
+      "artist": "Pink Floyd",
+      "path": ""
+    },
+    {
+      "name": "Time",
+      "artist": "Pink Floyd",
+      "path": ""
+    },
+    {
+      "name": "High Hopes",
+      "artist": "Pink Floyd",
+      "path": ""
+    },
+    {
+      "name": "Owner of a Lonely Heart",
+      "artist": "Yes",
+      "path": ""
+    },
+    {
+      "name": "Roundabout",
+      "artist": "Yes",
+      "path": ""
+    },
+    {
+      "name": "Hold On",
+      "artist": "Yes",
+      "path": ""
+    },
+    {
+      "name": "Love On a Real Train",
+      "artist": "Tangerine Dream",
+      "path": ""
+    },
+    {
+      "name": "Zero Gravity",
+      "artist": "Tangerine Dream",
+      "path": ""
+    },
+    {
+      "name": "Dolphin Dance",
+      "artist": "Tangerine Dream",
+      "path": ""
+    },
+    {
+      "name": "Paranoid",
+      "artist": "Black Sabbath",
+      "path": ""
+    },
+    {
+      "name": "Iron Man",
+      "artist": "Black Sabbath",
+      "path": ""
+    },
+    {
+      "name": "War Pigs",
+      "artist": "Black Sabbath",
+      "path": ""
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "path": ""
+    },
+    {
+      "name": "Another One Bites the Dust",
+      "artist": "Queen",
+      "path": ""
+    },
+    {
+      "name": "I Want to Break Free",
+      "artist": "Queen",
+      "path": ""
+    },
+    {
+      "name": "Don't Stop Me Now",
+      "artist": "Queen",
+      "path": ""
+    },
+    {
+      "name": "We Will Rock You",
+      "artist": "Queen",
+      "path": ""
+    },
+    {
+      "name": "We Are The Champions",
+      "artist": "Queen",
+      "path": ""
+    }
+  ]
+}
