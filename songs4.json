@@ -6,6 +6,916 @@
       "artists": [
         "Elton Jhon"
       ]
+    },
+    {
+      "name": "Goodbye Yellow Brick Road",
+      "path": "songs/Goodbye Yellow Brick Road - Remastered 2014 - Elton John.mp3",
+      "artists": [
+        "Elton Jhon"
+      ]
+    },
+    {
+      "name": "Daniel",
+      "path": "songs/Daniel - Elton John.mp3",
+      "artists": [
+        "Elton Jhon"
+      ]
+    },
+    {
+      "name": "Living On a Prayer",
+      "path": "songs/Livin_ On A Prayer - Bon Jovi.mp3",
+      "artists": [
+        "Bon Jovi"
+      ]
+    },
+    {
+      "name": "Wanted Dead or Alive",
+      "path": "songs/Wanted Dead Or Alive - Bon Jovi.mp3",
+      "artists": [
+        "Bon Jovi"
+      ]
+    },
+    {
+      "name": "It's My Life",
+      "path": "songs/It_s My Life - Bon Jovi.mp3",
+      "artists": [
+        "Bon Jovi"
+      ]
+    },
+    {
+      "name": "Welcome to the Jungle",
+      "path": "songs/Welcome To The Jungle - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns & Roses"
+      ]
+    },
+    {
+      "name": "Sweet Child of Mine",
+      "path": "songs/Sweet Child O_ Mine - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns & Roses"
+      ]
+    },
+    {
+      "name": "Night Train",
+      "path": "songs/Nightrain - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns & Roses"
+      ]
+    },
+    {
+      "name": "Crazy",
+      "path": "songs/Crazy - Aerosmith.mp3",
+      "artists": [
+        "Seal"
+      ]
+    },
+    {
+      "name": "Whirlpool",
+      "path": "songs/Whirlpool - Seal.mp3",
+      "artists": [
+        "Seal"
+      ]
+    },
+    {
+      "name": "Future Love Paradise",
+      "path": "songs/Future Love Paradise - Seal.mp3",
+      "artists": [
+        "Seal"
+      ]
+    },
+    {
+      "name": "Hold the Line",
+      "path": "songs/Hold the Line - TOTO.mp3",
+      "artists": [
+        "Toto"
+      ]
+    },
+    {
+      "name": "Africa",
+      "path": "songs/Africa - TOTO.mp3",
+      "artists": [
+        "Toto"
+      ]
+    },
+    {
+      "name": "Rosanna",
+      "path": "songs/Rosanna - TOTO.mp3",
+      "artists": [
+        "Toto"
+      ]
+    },
+    {
+      "name": "Georgy Porgy",
+      "path": "songs/Georgy Porgy - TOTO.mp3",
+      "artists": [
+        "Toto"
+      ]
+    },
+    {
+      "name": "Every Breath you Take",
+      "path": "songs/Every Breath You Take - The Police.mp3",
+      "artists": [
+        "The Police"
+      ]
+    },
+    {
+      "name": "Message in a Bottle",
+      "path": "songs/Message In A Bottle - The Police.mp3",
+      "artists": [
+        "The Police"
+      ]
+    },
+    {
+      "name": "Roxanne",
+      "path": "songs/Roxanne - The Police.mp3",
+      "artists": [
+        "The Police"
+      ]
+    },
+    {
+      "name": "Englishman In New York",
+      "path": "songs/Englishman In New York - Sting.mp3",
+      "artists": [
+        "The Police"
+      ]
+    },
+    {
+      "name": "Every Little Thing She does is Magic",
+      "path": "songs/Every Little Thing She Does Is Magic - The Police.mp3",
+      "artists": [
+        "The Police"
+      ]
+    },
+    {
+      "name": "Won't be long",
+      "path": "songs/Won_t Be Long - Aretha Franklin.mp3",
+      "artists": [
+        "Aretha Franklin"
+      ]
+    },
+    {
+      "name": "I say a little Prayer",
+      "path": "songs/I Say a Little Prayer - Aretha Franklin.mp3",
+      "artists": [
+        "Aretha Franklin"
+      ]
+    },
+    {
+      "name": "Respect",
+      "path": "songs/Respect - Aretha Franklin.mp3",
+      "artists": [
+        "Aretha Franklin"
+      ]
+    },
+    {
+      "name": "Ain't Mountain High Enough",
+      "path": "songs/Ain_t No Mountain High Enough - Marvin Gaye.mp3",
+      "artists": [
+        "Marvin Gaye"
+      ]
+    },
+    {
+      "name": "Sexual Healing",
+      "path": "songs/Sexual Healing - Marvin Gaye.mp3",
+      "artists": [
+        "Marvin Gaye"
+      ]
+    },
+    {
+      "name": "Let's Get it On",
+      "path": "songs/Let_s Get It On - Marvin Gaye.mp3",
+      "artists": [
+        "Marvin Gaye"
+      ]
+    },
+    {
+      "name": "Mercy Mercy Me",
+      "path": "songs/Mercy Mercy Me _The Ecology_ - Marvin Gaye.mp3",
+      "artists": [
+        "Marvin Gaye"
+      ]
+    },
+    {
+      "name": "September",
+      "path": "songs/September - Earth_ Wind _ Fire.mp3",
+      "artists": [
+        "Earth Wind and Fire"
+      ]
+    },
+    {
+      "name": "Let's Groove",
+      "path": "songs/Let_s Groove - Earth_ Wind _ Fire.mp3",
+      "artists": [
+        "Earth Wind and Fire"
+      ]
+    },
+    {
+      "name": "Boogie Wonderland",
+      "path": "songs/Boogie Wonderland _with The Emotions_ - Earth_ Wind _ Fire.mp3",
+      "artists": [
+        "Earth Wind and Fire"
+      ]
+    },
+    {
+      "name": "Billie Jean",
+      "path": "songs/Billie Jean - Michael Jackson.mp3",
+      "artists": [
+        "Michael Jackson"
+      ]
+    },
+    {
+      "name": "Rock With You",
+      "path": "songs/Rock with You - Single Version - Michael Jackson.mp3",
+      "artists": [
+        "Michael Jackson"
+      ]
+    },
+    {
+      "name": "Don't Stop Till You Get Enough",
+      "path": "songs/Don_t Stop _Til You Get Enough - 2003 Edit - Michael Jackson.mp3",
+      "artists": [
+        "Michael Jackson"
+      ]
+    },
+    {
+      "name": "You Rock My World",
+      "path": "songs/You Rock My World - Radio Edit - Michael Jackson.mp3",
+      "artists": [
+        "Michael Jackson"
+      ]
+    },
+    {
+      "name": "I Want You Back",
+      "path": "songs/I Want You Back - The Jackson 5.mp3",
+      "artists": [
+        "Michael Jackson", "The Jackson 5"
+      ]
+    },
+    {
+      "name": "ABC",
+      "path": "songs/ABC - The Jackson 5.mp3",
+      "artists": [
+        "Michael Jackson", "The Jackson 5"
+      ]
+    },
+    {
+      "name": "Shake Your Body",
+      "path": "songs/Shake Your Body _Down to the Ground_ - Single Edit - The Jacksons.mp3",
+      "artists": [
+        "Michael Jackson", "The Jackson 5"
+      ]
+    },
+    {
+      "name": "Blame It On The Boogie",
+      "path": "songs/Blame It on the Boogie - The Jacksons.mp3",
+      "artists": [
+        "Michael Jackson", "The Jackson 5"
+      ]
+    },
+    {
+      "name": "Superstition",
+      "path": "songs/Superstition - Stevie Wonder.mp3",
+      "artists": [
+        "Stevie Wonder"
+      ]
+    },
+    {
+      "name": "You are the Sunshine of my life",
+      "path": "songs/You Are The Sunshine Of My Life - Stevie Wonder.mp3",
+      "artists": [
+        "Stevie Wonder"
+      ]
+    },
+    {
+      "name": "Part Time Lover",
+      "path": "songs/Part-Time Lover - Stevie Wonder.mp3",
+      "artists": [
+        "Stevie Wonder"
+      ]
+    },
+    {
+      "name": "Higher Ground",
+      "path": "songs/Higher Ground - Stevie Wonder.mp3",
+      "artists": [
+        "Stevie Wonder"
+      ]
+    },
+    {
+      "name": "Policy of Truth",
+      "path": "songs/Policy of Truth - Depeche Mode.mp3",
+      "artists": [
+        "Depeche Mode"
+      ]
+    },
+    {
+      "name": "Enjoy The Silence",
+      "path": "songs/Enjoy the Silence - Depeche Mode.mp3",
+      "artists": [
+        "Depeche Mode"
+      ]
+    },
+    {
+      "name": "Personal Jesus",
+      "path": "songs/Personal Jesus - Depeche Mode.mp3",
+      "artists": [
+        "Depeche Mode"
+      ]
+    },
+    {
+      "name": "Strangelove",
+      "path": "songs/Strangelove - Depeche Mode.mp3",
+      "artists": [
+        "Depeche Mode"
+      ]
+    },
+    {
+      "name": "Modern Love",
+      "path": "songs/Modern Love - 2018 Remaster - David Bowie.mp3",
+      "artists": [
+        "David Bowie"
+      ]
+    },
+    {
+      "name": "Heroes",
+      "path": "songs/Heroes - 2017 Remaster - David Bowie.mp3",
+      "artists": [
+        "David Bowie"
+      ]
+    },
+    {
+      "name": "Let's Dance",
+      "path": "songs/Let_s Dance - 2018 Remaster - David Bowie.mp3",
+      "artists": [
+        "David Bowie"
+      ]
+    },
+    {
+      "name": "Under Pressure",
+      "path": "songs/Under Pressure - Queen.mp3",
+      "artists": [
+        "David Bowie", "Queen"
+      ]
+    },
+    {
+      "name": "Voulez-Vous",
+      "path": "songs/Voulez-Vous - ABBA.mp3",
+      "artists": [
+        "Abba"
+      ]
+    },
+    {
+      "name": "Dancing Queen",
+      "path": "songs/Dancing Queen - ABBA.mp3",
+      "artists": [
+        "Abba"
+      ]
+    },
+    {
+      "name": "The Winner Takes It all",
+      "path": "songs/The Winner Takes It All - ABBA.mp3",
+      "artists": [
+        "Abba"
+      ]
+    },
+    {
+      "name": "Back in Black",
+      "path": "songs/Back In Black - AC_DC.mp3",
+      "artists": [
+        "AC/DC"
+      ]
+    },
+    {
+      "name": "You Shook Me All Night Long",
+      "path": "songs/You Shook Me All Night Long - AC_DC.mp3",
+      "artists": [
+        "AC/DC"
+      ]
+    },
+    {
+      "name": "Thunderstruck",
+      "path": "songs/Thunderstruck - AC_DC.mp3",
+      "artists": [
+        "AC/DC"
+      ]
+    },
+    {
+      "name": "Rock or Bust",
+      "path": "songs/Rock or Bust - AC_DC.mp3",
+      "artists": [
+        "AC/DC"
+      ]
+    },
+    {
+      "name": "Highway to Hell",
+      "path": "songs/Highway to Hell - AC_DC.mp3",
+      "artists": [
+        "AC/DC"
+      ]
+    },
+    {
+      "name": "Don't Answer Me",
+      "path": "songs/Don_t Answer Me _2024 Remaster_ - The Alan Parsons Project.mp3",
+      "artists": [
+        "The Alan Parsons Project"
+      ]
+    },
+    {
+      "name": "Eye in The Sky",
+      "path": "songs/Eye In The Sky - The Alan Parsons Project.mp3",
+      "artists": [
+        "The Alan Parsons Project"
+      ]
+    },
+    {
+      "name": "Time",
+      "path": "songs/Part-Time Lover - Stevie Wonder.mp3",
+      "artists": [
+        "The Alan Parsons Project"
+      ]
+    },
+    {
+      "name": "You're the First, The last, Mt Everything",
+      "path": "songs/You_re The First_ The Last_ My Everything - Barry White.mp3",
+      "artists": [
+        "Barry White"
+      ]
+    },
+    {
+      "name": "Can't Get Enough of Your Love",
+      "path": "songs/Can_t Get Enough Of Your Love_ Babe - Barry White.mp3",
+      "artists": [
+        "Barry White"
+      ]
+    },
+    {
+      "name": "Just the Way You Are",
+      "path": "songs/Just The Way You Are - Barry White.mp3",
+      "artists": [
+        "Barry White"
+      ]
+    },
+    {
+      "name": "Jive Talking",
+      "path": "songs/Jive Talkin_ - Bee Gees.mp3",
+      "artists": [
+        "Bee Gees"
+      ]
+    },
+    {
+      "name": "Stayin' Alive",
+      "path": "songs/Stayin Alive - Bee Gees.mp3",
+      "artists": [
+        "Bee Gees"
+      ]
+    },
+    {
+      "name": "How Deep is Your Love",
+      "path": "songs/How Deep Is Your Love - Bee Gees.mp3",
+      "artists": [
+        "Bee Gees"
+      ]
+    },
+    {
+      "name": "Night Fever",
+      "path": "songs/Night Fever - From _Saturday Night Fever_ Soundtrack - Bee Gees.mp3",
+      "artists": [
+        "Bee Gees"
+      ]
+    },
+    {
+      "name": "You Should Be Dancing",
+      "path": "songs/You Should Be Dancing - Bee Gees.mp3",
+      "artists": [
+        "Bee Gees"
+      ]
+    },
+    {
+      "name": "Twice as Hard",
+      "path": "songs/Twice As Hard - The Black Crowes.mp3",
+      "artists": [
+        "The Black Crowes"
+      ]
+    },
+    {
+      "name": "Hard to Handle",
+      "path": "songs/Hard To Handle - The Black Crowes.mp3",
+      "artists": [
+        "The Black Crowes"
+      ]
+    },
+    {
+      "name": "She talks to Angels",
+      "path": "songs/She Talks To Angels - The Black Crowes.mp3",
+      "artists": [
+        "The Black Crowes"
+      ]
+    },
+    {
+      "name": "Remedy",
+      "path": "songs/Remedy - 2023 Remaster - The Black Crowes.mp3",
+      "artists": [
+        "The Black Crowes"
+      ]
+    },
+    {
+      "name": "Sting Me",
+      "path": "songs/Sting Me - 2023 Remaster - The Black Crowes.mp3",
+      "artists": [
+        "The Black Crowes"
+      ]
+    },
+    {
+      "name": "All In One",
+      "path": "songs/All in One - Bob Marley _ The Wailers.mp3",
+      "artists": [
+        "Bob Marley"
+      ]
+    },
+    {
+      "name": "I Shot The Sheriff",
+      "path": "songs/I Shot The Sheriff - Bob Marley _ The Wailers.mp3",
+      "artists": [
+        "Bob Marley"
+      ]
+    },
+    {
+      "name": "You Could Be Loved",
+      "path": "songs/Could You Be Loved - Bob Marley _ The Wailers.mp3",
+      "artists": [
+        "Bob Marley"
+      ]
+    },
+    {
+      "name": "Is this Love",
+      "path": "songs/Is This Love - Bob Marley _ The Wailers.mp3",
+      "artists": [
+        "Bob Marley"
+      ]
+    },
+    {
+      "name": "Get Up, Stand Up",
+      "path": "songs/Get Up_ Stand Up - Bob Marley _ The Wailers.mp3",
+      "artists": [
+        "Bob Marley"
+      ]
+    },
+    {
+      "name": "Sweet Child O'Mine",
+      "path": "songs/Sweet Child O_ Mine - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns n Roses"
+      ]
+    },
+    {
+      "name": "Welcome to the Jungle",
+      "path": "songs/Welcome To The Jungle - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns n Roses"
+      ]
+    },
+    {
+      "name": "Paradise City",
+      "path": "songs/Paradise City - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns n Roses"
+      ]
+    },
+    {
+      "name": "Patience",
+      "path": "songs/Patience - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns n Roses"
+      ]
+    },
+    {
+      "name": "Knockin' on Heaven's Door",
+      "path": "songs/Knockin_ On Heaven_s Door - Guns N_ Roses.mp3",
+      "artists": [
+        "Guns n Roses"
+      ]
+    },
+    {
+      "name": "Back in Black",
+      "path": "songs/Back In Black - AC_DC.mp3",
+      "artists": [
+        "AC DC"
+      ]
+    },
+    {
+      "name": "Thunderstruck",
+      "path": "songs/Thunderstruck - AC_DC.mp3",
+      "artists": [
+        "AC DC"
+      ]
+    },
+    {
+      "name": "Highway To Hell",
+      "path": "songs/Highway to Hell - AC_DC.mp3",
+      "artists": [
+        "AC DC"
+      ]
+    },
+    {
+      "name": "You Shook Me All Night Long",
+      "path": "songs/You Shook Me All Night Long - AC_DC.mp3",
+      "artists": [
+        "AC DC"
+      ]
+    },
+    {
+      "name": "Hells Bells",
+      "path": "songs/Hells Bells - AC_DC.mp3",
+      "artists": [
+        "AC DC"
+      ]
+    },
+    {
+      "name": "I Was Made for Loving You",
+      "path": "songs/I Was Made For Lovin_ You - KISS.mp3",
+      "artists": [
+        "Kiss"
+      ]
+    },
+    {
+      "name": "Rock n Roll all Nite",
+      "path": "songs/Rock And Roll All Nite - KISS.mp3",
+      "artists": [
+        "Kiss"
+      ]
+    },
+    {
+      "name": "Forever",
+      "path": "songs/Forever - KISS.mp3",
+      "artists": [
+        "Kiss"
+      ]
+    },
+    {
+      "name": "Love Gun",
+      "path": "songs/Love Gun - KISS.mp3",
+      "artists": [
+        "Kiss"
+      ]
+    },
+    {
+      "name": "Dream On",
+      "path": "songs/Dream On - Aerosmith.mp3",
+      "artists": [
+        "Aerosmith"
+      ]
+    },
+    {
+      "name": "Crazy",
+      "path": "songs/Crazy - Aerosmith.mp3",
+      "artists": [
+        "Aerosmith"
+      ]
+    },
+    {
+      "name": "Angel",
+      "path": "songs/Angel - Aerosmith.mp3",
+      "artists": [
+        "Aerosmith"
+      ]
+    },
+    {
+      "name": "Crying",
+      "path": "songs/Cryin_ - Aerosmith.mp3",
+      "artists": [
+        "Aerosmith"
+      ]
+    },
+    {
+      "name": "Sweet Emotion",
+      "path": "songs/Sweet Emotion - Aerosmith.mp3",
+      "artists": [
+        "Aerosmith"
+      ]
+    },
+    {
+      "name": "Walk This Way",
+      "path": "songs/Walk This Way - Aerosmith.mp3",
+      "artists": [
+        "Aerosmith"
+      ]
+    },
+    {
+      "name": "Call Me",
+      "path": "songs/Call Me - Blondie.mp3",
+      "artists": [
+        "Blondie"
+      ]
+    },
+    {
+      "name": "One Way Or Another",
+      "path": "songs/One Way Or Another - Blondie.mp3",
+      "artists": [
+        "Blondie"
+      ]
+    },
+    {
+      "name": "Heart Of Glass",
+      "path": "songs/Heart Of Glass - Blondie.mp3",
+      "artists": [
+        "Blondie"
+      ]
+    },
+    {
+      "name": "Wrapping Paper",
+      "path": "songs/Wrapping Paper - Cream.mp3",
+      "artists": [
+        "Cream"
+      ]
+    },
+    {
+      "name": "I Feel Free",
+      "path": "songs/I Feel Free - Cream.mp3",
+      "artists": [
+        "Cream"
+      ]
+    },
+    {
+      "name": "Crossroads",
+      "path": "songs/Crossroads - Live - Cream.mp3",
+      "artists": [
+        "Cream"
+      ]
+    },
+    {
+      "name": "Black Dog",
+      "path": "songs/Black Dog - Remaster - Led Zeppelin.mp3",
+      "artists": [
+        "Led Zeppelin"
+      ]
+    },
+    {
+      "name": "Whole Lotta Love",
+      "path": "songs/Whole Lotta Love - Remaster - Led Zeppelin.mp3",
+      "artists": [
+        "Led Zeppelin"
+      ]
+    },
+    {
+      "name": "Kashmir",
+      "path": "songs/Kashmir - Remaster - Led Zeppelin.mp3",
+      "artists": [
+        "Led Zeppelin"
+      ]
+    },
+    {
+      "name": "Stairway to Heaven",
+      "path": "songs/Stairway to Heaven - Remaster - Led Zeppelin.mp3",
+      "artists": [
+        "Led Zeppelin"
+      ]
+    },
+    {
+      "name": "Wish You Were Here",
+      "path": "songs/Wish You Were Here - Pink Floyd.mp3",
+      "artists": [
+        "Pink Floyd"
+      ]
+    },
+    {
+      "name": "Another Brick on the Wall Part 2",
+      "path": "songs/Another Brick in the Wall_ Pt. 2 - Pink Floyd.mp3",
+      "artists": [
+        "Pink Floyd"
+      ]
+    },
+    {
+      "name": "Hey You",
+      "path": "songs/Hey You - Pink Floyd.mp3",
+      "artists": [
+        "Pink Floyd"
+      ]
+    },
+    {
+      "name": "Comfortably Numb",
+      "path": "songs/Comfortably Numb - Pink Floyd.mp3",
+      "artists": [
+        "Pink Floyd"
+      ]
+    },
+    {
+      "name": "Time",
+      "path": "songs/Part-Time Lover - Stevie Wonder.mp3",
+      "artists": [
+        "Pink Floyd"
+      ]
+    },
+    {
+      "name": "High Hopes",
+      "path": "songs/High Hopes - Pink Floyd.mp3",
+      "artists": [
+        "Pink Floyd"
+      ]
+    },
+    {
+      "name": "Owner of a Lonely Heart",
+      "path": "songs/Owner of a Lonely Heart - Yes.mp3",
+      "artists": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Roundabout",
+      "path": "songs/Roundabout - 2024 Remaster - Yes.mp3",
+      "artists": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Hold On",
+      "path": "songs/Hold On - Yes.mp3",
+      "artists": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Love On a Real Train",
+      "path": "songs/Love On A Real Train - From _Risky Business_ Original Motion Picture Soundtrack - Tangerine Dream.mp3",
+      "artists": [
+        "Tangerine Dream"
+      ]
+    },
+    {
+      "name": "Zero Gravity",
+      "path": "songs/Zero Gravity - Above and Beyond Remix - Jean-Michel Jarre.mp3",
+      "artists": [
+        "Tangerine Dream"
+      ]
+    },
+    {
+      "name": "Dolphin Dance",
+      "path": "songs/Dolphin Dance - Tangerine Dream.mp3",
+      "artists": [
+        "Tangerine Dream"
+      ]
+    },
+    {
+      "name": "Paranoid",
+      "path": "songs/Paranoid _2012 Remaster_ - Black Sabbath.mp3",
+      "artists": [
+        "Black Sabbath"
+      ]
+    },
+    {
+      "name": "Iron Man",
+      "path": "songs/Iron Man _2012 Remaster_ - Black Sabbath.mp3",
+      "artists": [
+        "Black Sabbath"
+      ]
+    },
+    {
+      "name": "War Pigs",
+      "path": "songs/War Pigs - 2009 Remaster - Black Sabbath.mp3",
+      "artists": [
+        "Black Sabbath"
+      ]
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "path": "songs/Bohemian Rhapsody - Queen.mp3",
+      "artists": [
+        "Queen"
+      ]
+    },
+    {
+      "name": "Another One Bites the Dust",
+      "path": "songs/Another One Bites The Dust - Remastered 2011 - Queen.mp3",
+      "artists": [
+        "Queen"
+      ]
+    },
+    {
+      "name": "I Want to Break Free",
+      "path": "songs/I Want To Break Free - Queen.mp3",
+      "artists": [
+        "Queen"
+      ]
+    },
+    {
+      "name": "Don't Stop Me Now",
+      "path": "songs/Don_t Stop Me Now - Remastered 2011 - Queen.mp3",
+      "artists": [
+        "Queen"
+      ]
+    },
+    {
+      "name": "We Will Rock You",
+      "path": "songs/We Will Rock You - Remastered 2011 - Queen.mp3",
+      "artists": [
+        "Queen"
+      ]
+    },
+    {
+      "name": "We Are The Champions",
+      "path": "songs/We Are The Champions - Remastered 2011 - Queen.mp3",
+      "artists": [
+        "Queen"
+      ]
     }
   ]
 }
