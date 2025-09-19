@@ -30,8 +30,8 @@ export default function ResultScreen({ results, onRestart, onReplay }) {
               </p>
             </div>
             <div className="text-sm">
-              <span className="font-medium text-purple-800">Artista:</span>{' '}
-              <span className="text-purple-700">{r.correctArtist}</span>
+              <span className="font-medium text-purple-800">Artista(s):</span>{' '}
+              <span className="text-purple-700">{Array.isArray(r.correctArtists) ? r.correctArtists.join(', ') : ''}</span>
             </div>
           </li>
         ))}

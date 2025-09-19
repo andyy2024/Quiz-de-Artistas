@@ -7,7 +7,7 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
   const [options, setOptions] = useState([]);
   const [selectedArtist, setSelectedArtist] = useState(null); // selección previa
   const [confirmed, setConfirmed] = useState(false); // ya respondió
-  const [feedback, setFeedback] = useState(null); // { correct, correctArtist, title }
+  const [feedback, setFeedback] = useState(null); // { correct, correctArtists, title }
   const [results, setResults] = useState([]);
   const [isPlaying, setIsPlaying] = useState(false);
   const [volume, setVolume] = useState(0.5); // 50%
@@ -25,7 +25,8 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
 
   useEffect(() => {
     if (!currentSong) return;
-    const opts = buildOptions(currentSong.artist, uniqueArtists, 10);
+    const correctArtists = Array.isArray(currentSong.artists) ? currentSong.artists : [];
+    const opts = buildOptions(correctArtists, uniqueArtists, 10);
     setOptions(opts);
     setSelectedArtist(null);
     setConfirmed(false);
@@ -43,12 +44,13 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
     }
   }, [volume]);
 
-  function buildOptions(correctArtist, all, count) {
-    const pool = all.filter(a => a !== correctArtist);
+  function buildOptions(correctArtists, all, desiredCount) {
+    const correctSet = new Set(correctArtists);
+    const pool = all.filter(a => !correctSet.has(a));
     shuffleInPlace(pool);
-    const needed = Math.max(0, count - 1);
+    const needed = Math.max(0, desiredCount - correctArtists.length);
     const incorrects = pool.slice(0, needed);
-    const combo = [correctArtist, ...incorrects];
+    const combo = [...correctArtists, ...incorrects];
     shuffleInPlace(combo);
     return combo;
   }
@@ -64,7 +66,7 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
     cleanupAudio();
 
     const audio = new Audio();
-    const src = song.path.startsWith('/') ? song.path : `/${song.path}`;
+    const src = song.path?.startsWith('/') ? song.path : `/${song.path}`;
     audio.src = src;
     audio.preload = 'auto';
     audio.volume = volume;
@@ -125,21 +127,23 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
 
   function handleConfirm() {
     if (!selectedArtist || confirmed) return;
-    const correct = selectedArtist === currentSong.artist;
+    const correctArtists = Array.isArray(currentSong.artists) ? currentSong.artists : [];
+    const correct = correctArtists.includes(selectedArtist);
+
     const entry = {
       song: currentSong,
       correct,
       selectedArtist,
-      correctArtist: currentSong.artist,
+      correctArtists,
     };
     setResults(prev => [...prev, entry]);
     setFeedback({
       correct,
-      correctArtist: currentSong.artist,
+      correctArtists,
       title: currentSong.name,
     });
     setConfirmed(true);
-    // Nota: ya no pausamos la canción; continúa sonando.
+    // La canción sigue sonando; no se pausa al responder.
   }
 
   function handleNext() {
@@ -152,6 +156,7 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
 
   const progressText = `${index + 1} / ${total}`;
   const canConfirm = !!selectedArtist && !confirmed;
+  const correctArtistsSet = new Set(Array.isArray(currentSong?.artists) ? currentSong.artists : []);
 
   return (
     <section className="relative bg-white/85 rounded-2xl shadow-sm p-4 sm:p-6 lg:p-8 backdrop-blur">
@@ -196,7 +201,7 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
             label={artist}
             disabled={confirmed}
             selected={selectedArtist === artist}
-            correct={confirmed && artist === feedback?.correctArtist}
+            correct={confirmed && correctArtistsSet.has(artist)}
             onClick={() => setSelectedArtist(artist)}
           />
         ))}
@@ -230,7 +235,7 @@ export default function GameScreen({ songs, allArtists, randomStart, onFinish, o
             </p>
             {!feedback.correct && (
               <p className="text-sm mt-1">
-                Respuesta correcta: <span className="font-medium">{feedback.correctArtist}</span>
+                Respuesta correcta: <span className="font-medium">{feedback.correctArtists.join(', ')}</span>
               </p>
             )}
           </div>

@@ -17,12 +17,11 @@ export default function App() {
     let isMounted = true;
     async function loadSongs() {
       try {
-        const res = await fetch('/songs3.json', { cache: 'no-store' });
+        const res = await fetch('/songs.json', { cache: 'no-store' });
         if (!res.ok) throw new Error('No se pudo cargar songs.json');
         const data = await res.json();
-        const canciones = data.canciones
         if (isMounted) {
-          setSongs(Array.isArray(canciones) ? canciones : []);
+          setSongs(Array.isArray(data) ? data : []);
           setLoading(false);
         }
       } catch (e) {
@@ -37,7 +36,11 @@ export default function App() {
   }, []);
 
   const allArtists = useMemo(() => {
-    const set = new Set(songs.map(s => s.artist));
+    const set = new Set();
+    songs.forEach(s => {
+      const list = Array.isArray(s.artists) ? s.artists : [];
+      list.forEach(a => set.add(a));
+    });
     return Array.from(set);
   }, [songs]);
 

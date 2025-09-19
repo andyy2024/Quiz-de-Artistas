@@ -3,14 +3,17 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://andyy2024.github.io/Quiz-de-Artistas/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview",
     "clean": "node scripts/clean-file-names.mjs",
     "update": "node scripts/update-songs.mjs",
-    "check": "node scripts/resolve-songs-paths.mjs"
+    "check": "node scripts/resolve-songs-paths.mjs",
+    "uwu": "node scripts/uwu.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
