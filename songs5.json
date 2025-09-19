@@ -43,20 +43,6 @@
       ]
     },
     {
-      "name": "Welcome to the Jungle",
-      "path": "songs/Welcome To The Jungle - Guns N_ Roses.mp3",
-      "artists": [
-        "Guns & Roses"
-      ]
-    },
-    {
-      "name": "Sweet Child of Mine",
-      "path": "songs/Sweet Child O_ Mine - Guns N_ Roses.mp3",
-      "artists": [
-        "Guns & Roses"
-      ]
-    },
-    {
       "name": "Night Train",
       "path": "songs/Nightrain - Guns N_ Roses.mp3",
       "artists": [
@@ -249,28 +235,28 @@
       "name": "I Want You Back",
       "path": "songs/I Want You Back - The Jackson 5.mp3",
       "artists": [
-        "Michael Jackson"
+        "Michael Jackson", "The Jackson 5"
       ]
     },
     {
       "name": "ABC",
       "path": "songs/ABC - The Jackson 5.mp3",
       "artists": [
-        "Michael Jackson"
+        "Michael Jackson", "The Jackson 5"
       ]
     },
     {
       "name": "Shake Your Body",
       "path": "songs/Shake Your Body _Down to the Ground_ - Single Edit - The Jacksons.mp3",
       "artists": [
-        "Michael Jackson"
+        "Michael Jackson", "The Jackson 5"
       ]
     },
     {
       "name": "Blame It On The Boogie",
       "path": "songs/Blame It on the Boogie - The Jacksons.mp3",
       "artists": [
-        "Michael Jackson"
+        "Michael Jackson", "The Jackson 5"
       ]
     },
     {
@@ -354,7 +340,7 @@
       "name": "Under Pressure",
       "path": "songs/Under Pressure - Queen.mp3",
       "artists": [
-        "David Bowie"
+        "David Bowie", "Queen"
       ]
     },
     {
@@ -381,13 +367,6 @@
     {
       "name": "Back in Black",
       "path": "songs/Back In Black - AC_DC.mp3",
-      "artists": [
-        "AC/DC"
-      ]
-    },
-    {
-      "name": "You Shook Me All Night Long",
-      "path": "songs/You Shook Me All Night Long - AC_DC.mp3",
       "artists": [
         "AC/DC"
       ]
@@ -593,27 +572,6 @@
       "path": "songs/Knockin_ On Heaven_s Door - Guns N_ Roses.mp3",
       "artists": [
         "Guns n Roses"
-      ]
-    },
-    {
-      "name": "Back in Black",
-      "path": "songs/Back In Black - AC_DC.mp3",
-      "artists": [
-        "AC DC"
-      ]
-    },
-    {
-      "name": "Thunderstruck",
-      "path": "songs/Thunderstruck - AC_DC.mp3",
-      "artists": [
-        "AC DC"
-      ]
-    },
-    {
-      "name": "Highway To Hell",
-      "path": "songs/Highway to Hell - AC_DC.mp3",
-      "artists": [
-        "AC DC"
       ]
     },
     {
